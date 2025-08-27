@@ -6,5 +6,5 @@ Components needed:
 - 2.9 inch E-Paper
 - 3D printed housing
 
-![Top PCB](https://github.com/Nirmata-Labs/I2C-Adress-Checker/blob/main/I2C%20Checker%20Top.png)
+![Display View](https://github.com/Nirmata-Labs/ESP8266-E-Paper-Crypto-Ticker/blob/main/E-Paper%20ESP8266.png)
 
