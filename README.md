@@ -11,4 +11,4 @@ Components needed:
 
 ## Create own bitmap-logos
 
-![Image converter](https://javl.github.io/image2cpp/) 
+[Image converter](https://javl.github.io/image2cpp/) 
