@@ -8,3 +8,7 @@ Components needed:
 
 ![Display View](https://github.com/Nirmata-Labs/ESP8266-E-Paper-Crypto-Ticker/blob/main/E-Paper%20ESP8266.png)
 
+
+## Create own bitmap-logos
+
+![Image converter](https://javl.github.io/image2cpp/) 
